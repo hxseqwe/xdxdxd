@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PF Centro Sans Pro';
+    src: local('PF Centro Sans Pro XThin'), local('PF-Centro-Sans-Pro-XThin'),
+        url('PFCentroSansPro-XThin.woff2') format('woff2'),
+        url('PFCentroSansPro-XThin.woff') format('woff'),
+        url('PFCentroSansPro-XThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }

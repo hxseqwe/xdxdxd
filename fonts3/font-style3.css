@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bree';
+    src: local('Bree Thin'), local('Bree-Thin'),
+        url('BreeCYR-Thin.woff2') format('woff2'),
+        url('BreeCYR-Thin.woff') format('woff'),
+        url('BreeCYR-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }

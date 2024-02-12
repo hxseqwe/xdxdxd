@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fedra Sans Pro';
+    src: local('Fedra Sans Pro Light'), local('Fedra-Sans-Pro-Light'),
+        url('FedraSansPro-Light.woff2') format('woff2'),
+        url('FedraSansPro-Light.woff') format('woff'),
+        url('FedraSansPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }

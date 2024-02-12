@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ruberoid';
+    src: local('Ruberoid Thin'), local('Ruberoid-Thin'),
+        url('Ruberoid-Thin.woff2') format('woff2'),
+        url('Ruberoid-Thin.woff') format('woff'),
+        url('Ruberoid-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }

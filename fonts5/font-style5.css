@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Museo Slab';
+    src: local('Museo Slab 100'), local('Museo-Slab-100'),
+        url('MuseoSlab-100.woff2') format('woff2'),
+        url('MuseoSlab-100.woff') format('woff'),
+        url('MuseoSlab-100.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
